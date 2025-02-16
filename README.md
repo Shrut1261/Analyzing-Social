@@ -1,7 +1,7 @@
-# Analyzing Social Media Dynamics: Unveiling Trends and Sentiment Shifts
+## Analyzing Social Media Dynamics: Unveiling Trends and Sentiment Shifts
 
 ## Introduction
-This project focuses on the comprehensive analysis of social media data to identify emerging trends and detect sentiment shifts. By examining user interactions, post content, and engagement metrics, the study aims to extract meaningful insights that contribute to the field of sentiment analysis and digital communication research.
+This project focuses on the comprehensive analysis of social media data to identify emerging trends and detect sentiment shifts. By examining user interactions, post content, and engagement metrics, the study aims to extract meaningful insights that contribute to sentiment analysis and digital communication research.
 
 ## Data Analysis Methodology
 ### Power Analysis in R
